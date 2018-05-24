@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /search.html?q=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 9450 http-bio-8085-exec-1 1325
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /css/base.css HTTP/1.1" 200 48835 http-bio-8085-exec-2 24
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /css/order-commons.css HTTP/1.1" 200 47486 http-bio-8085-exec-3 13
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /js/order.common.js HTTP/1.1" 200 9499 http-bio-8085-exec-6 6
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /js/base.js HTTP/1.1" 200 12499 http-bio-8085-exec-5 14
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /js/jquery.checkout.js HTTP/1.1" 200 13775 http-bio-8085-exec-7 9
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /js/jquery-extend.js HTTP/1.1" 200 1802 http-bio-8085-exec-7 1
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92010 http-bio-8085-exec-4 26
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /js/lib-v1.js HTTP/1.1" 200 122984 http-bio-8085-exec-7 22
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /js/taotao.js HTTP/1.1" 200 642 http-bio-8085-exec-7 1
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 200 6060 http-bio-8085-exec-7 2
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /images/20130330A_2.png HTTP/1.1" 200 8252 http-bio-8085-exec-4 3
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /images/errordog.jpg HTTP/1.1" 200 26691 http-bio-8085-exec-7 7
+0:0:0:0:0:0:0:1 - - [05/May/2018:12:32:49 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-7 3
